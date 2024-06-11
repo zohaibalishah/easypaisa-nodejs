@@ -13,6 +13,7 @@
     "url": "git+https://github.com/zohaibalishah/easypaisa-nodejs.git"
   },
   "keywords": [
+    "easypaisa integration in node.js",
     "easypaisa",
     "nodejseasypaisa",
     "easypaisa-apis",
