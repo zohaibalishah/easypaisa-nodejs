@@ -1,0 +1,28 @@
+{
+  "name": "easypaisa-nodejs-integration",
+  "version": "1.0.0",
+  "description": "easypaisa nodejs apis ",
+  "main": "app.js",
+  "scripts": {
+    "start":"app.js",
+    "dev":"nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zohaibalishah/easypaisa-nodejs.git"
+  },
+  "keywords": [
+    "easypaisa",
+    "nodejseasypaisa",
+    "easypaisa-apis",
+    "nodejseaspayapis",
+    "express easypaisa apis"
+  ],
+  "author": "zohiabalishah1997@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zohaibalishah/easypaisa-nodejs/issues"
+  },
+  "homepage": "https://github.com/zohaibalishah/easypaisa-nodejs#readme"
+}
